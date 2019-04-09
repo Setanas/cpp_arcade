@@ -1,0 +1,3 @@
+CHeck si y'a un env avec DISPLAY dedans
+
+Limiter le username de 10 caractere ?
