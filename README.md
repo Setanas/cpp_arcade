@@ -14,9 +14,8 @@ This game is programmed in C++ on a Linux environment.
 ### Prerequisites
 
 To compile we are using g++.<br/>
-The programm use the ncruses library and the Sfml library.
-The Sfml version is the 2.5.1. (PLease use a good version because older version can
-cause some problems when trying to destroy sf::text)
+The programm use the ncruses library and the Sfml library.<br/>
+The Sfml version is the 2.5.1. (PLease use a good version because older version can cause some problems when trying to destroy sf::text)
 
 ### Installing
 
@@ -59,10 +58,10 @@ $>./arcade lib/lib_arcade_sfml.so
 You will arrive on this screen where you will have to enter a nickname then press enter :
 ![nickname](/ressources/github/nickname.png)
 
-In the menu or in the game you can change the graphical library by pressing "b" for the previous library or by pressing "n".
-In the game you can change the game library by pressing "g" for the previous library or by pressing "h".
-You can pause the game by pressing "p".
-You can reset the game by pressing "r".
+In the menu or in the game you can change the graphical library by pressing "b" for the previous library or by pressing "n".<br/>
+In the game you can change the game library by pressing "g" for the previous library or by pressing "h".<br/>
+You can pause the game by pressing "p".<br/>
+You can reset the game by pressing "r".<br/>
 You can go to the menu by pressing "m"
 
 ## Authors
